@@ -1,0 +1,20 @@
+.sidebar li.active a {
+  color: #3975d9;
+}
+.cover {
+  background: linear-gradient(
+    to left bottom,
+    hsl(160, 100%, 85%) 0%,
+    hsl(233, 100%, 85%) 100%
+  ) !important;
+}
+.sidebar {
+  background-color: #f8f8f8 !important;
+}
+.sidebar li.active {
+  background-color: #f8f8f8 !important;
+}
+.search input:focus {
+  box-shadow: 0 0 5px var(--theme-color, #0074d9) !important;
+  border: 1px solid var(--theme-color, #0074d9) !important;
+}

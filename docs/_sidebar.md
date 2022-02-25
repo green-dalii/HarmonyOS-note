@@ -1,3 +1,4 @@
 - [序言](README "序言")
 - [HarmonyOS简介](01-HarmonyOS简介 "HarmonyOS简介")
+- [开发环节配置](02-开发环节配置 "开发环节配置")
 - [构建一个Demo项目](03-构建一个Demo项目 "构建一个Demo项目")

@@ -1,10 +1,10 @@
 ![HarmonyOS_logo](Images/logo.png)
 
-# 华为 HarmonyOS 编程学习笔记
+# 华为 HarmonyOS 学习笔记
 
 ## 使用说明
 
-<!-- - 本项目使用[Docsify](https://docsify.js.org/)技术生成，并托管在[GitHub Pages]()和 [Gitee Pages]() -->
+- 本笔记使用[Docsify](https://docsify.js.org/)技术生成，并托管在[GitHub Pages](https://green-dalii.github.io/HarmonyOS-note)和 [Gitee Pages](https://greener.gitee.io/harmony-os-note)
 - 华为 **DevEco Studio IDE**，基于IntelliJ IDEA Community开源版本二次开发，目前仅支持Windwos和Mac平台 👉 [下载地址](https://developer.harmonyos.com/cn/develop/deveco-studio#download)
 
 ## 课程资源

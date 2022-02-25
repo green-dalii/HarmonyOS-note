@@ -1,4 +1,4 @@
-![d2l](Images/logo.png)
+![HarmonyOS_logo](Images/logo.png)
 
 # 华为 HarmonyOS 编程学习笔记
 
@@ -7,6 +7,8 @@
 - 本项目使用[Docsify](https://docsify.js.org/)技术生成，并托管在[GitHub Pages]()和 [Gitee Pages]()
 
 ## 课程资源
+
+- [华为开发者中心-HarmonyOS 应用开发系列课](https://developer.huawei.com/consumer/cn/training/study-path/101621309859165043)
 
 ## 其他参考学习资源
 
